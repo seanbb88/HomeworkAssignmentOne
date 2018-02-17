@@ -1,2 +1,0 @@
-# HomeworkAssignmentOne
-Assignment 1

@@ -1,0 +1,49 @@
+.container {
+    background-color: grey;
+
+}
+
+#contact-info {
+    color: black;
+    text-align: right;
+    margin-right: 100px
+   
+}
+
+#header {
+  text-align: center;
+  color: grey;
+  background-color: rgba(10, 10, 46, 0.911);
+  margin-top: -10px;
+  margin-bottom: -3px;
+  font-family: 'Playfair Display', serif;
+}
+
+#name {
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: grey;
+  font-size: 30px
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; 
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  text-align: left;
+  margin-right: 150px;
+}
+
+#main-bio {
+  margin-left: 5px;
+  margin-right: 150px;
+}

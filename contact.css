@@ -1,0 +1,28 @@
+.container {
+    flex-direction: column; 
+    display: flex; 
+    
+}
+
+body {
+  background-image: url("../HomeworkAssignmentOne/dust_scratches.png");
+  
+}
+
+
+h1 {
+  font-family: cursive; 
+  font-size: 30px; 
+  text-align: center; 
+  color: dimgray; 
+}
+
+#fullname {
+  width: 20%; 
+}
+
+#emailaddress {
+  width: 20%; 
+}
+
+

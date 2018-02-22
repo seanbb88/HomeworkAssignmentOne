@@ -1,0 +1,72 @@
+body {
+  background-color: red; 
+ 
+}
+
+.sidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    right: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+.game {
+  border: solid black 1px; 
+  width: 40%; 
+  height: 80px; 
+  text-align: left; 
+  background-color: white; 
+  line-height: 1.5; 
+  font-size: 50px;
+  position: relative; 
+  margin-right: auto; 
+  
+}
+
+.program {
+  border: solid black 1px; 
+  width: 40%; 
+  height: 80px; 
+  text-align: left; 
+  background-color: white; 
+  line-height: 1.5; 
+  font-size: 50px;
+  position: relative; 
+  margin-right: auto; 
+  margin-top: 5px; 
+}
+
+.project {
+  border: solid black 1px; 
+  width: 40%; 
+  height: 80px; 
+  text-align: left; 
+  background-color: white; 
+  line-height: 1.5; 
+  font-size: 50px;
+  position: relative; 
+  margin-right: auto; 
+  margin-top: 5px; 
+}
+
+#games {
+  width: 30%; 
+  height: 100%;
+  float: right; 
+}
+
+#project {
+  width: 30%; 
+  height: 100%;
+  float: right; 
+}
+
+#project2 {
+  width: 30%; 
+  height: 100%;
+  float: right; 
+}
